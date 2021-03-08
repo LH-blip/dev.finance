@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "json",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LH-blip/dev.finance.git"
+  },
+  "keywords": [
+    "lh16061997"
+  ],
+  "author": "Luis Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LH-blip/dev.finance/issues"
+  },
+  "homepage": "https://github.com/LH-blip/dev.finance#readme"
+}
